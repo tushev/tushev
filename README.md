@@ -62,10 +62,7 @@ Here are some ideas to get you started:
       <a href="https://jquery.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" width="28" height="28"/> </a> 
       <a href="https://d3js.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" width="28" height="28"/> </a> 
       <a href="http://lesscss.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/less/less-plain-wordmark.svg" width="28" height="28"/> </a> 
-      <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="28" height="28"/> </a>       
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="25" />  
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" />  
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="25" />    
+      <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="28" height="28"/> </a> 
       <a href="https://www.latex-project.org/" target="_blank"> <img src="https://tushev.github.io/tushev/img/skill-svg/latex.svg" alt="LaTeX" width="65" height="26"/> </a> 
       <a href="https://www.wordpress.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-original.svg" alt="css3" width="28" height="28"/> </a> 
 </div>  
