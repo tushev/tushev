@@ -49,9 +49,12 @@ Here are some ideas to get you started:
       <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://tushev.github.io/tushev/img/skill-svg/rpi.svg" alt="Raspberry Pi" width="22" height="28"/> </a> 
       <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="28" height="28"/> </a> 
       <a href="https://www.microsoft.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="28" height="28"/> </a> 
-      <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="28" height="28"/> </a> 
       <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="28" height="28"/> </a> 
+      <a href="https://www.apple.com/macos/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/apple/apple-original.svg" alt="mac os" width="28" height="28"/> </a> 
       <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="28" height="28"/> </a> 
+      <a href="https://microsoft.com/PowerShell" target="_blank"> <img src="https://tushev.github.io/tushev/img/skill-svg/powershell.svg" alt="PowerShell" width="28" height="28"/> </a> 
+      <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="28" height="28"/> </a> 
+      <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="28" height="28"/> </a> 
       <a href="https://www.vim.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" alt="vim" width="28" height="28"/> </a> 
       <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"  width="28" height="28"/> </a> 
       <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb"  width="28" height="28"/> </a> 
