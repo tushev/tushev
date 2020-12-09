@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="75" height="75"/></a>
 <a href="https://www.mathworks.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="75" height="75"/></a> 
 <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="75" height="75"/></a> 
-<a href="https://www.nginx.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="75" height="75"/> </a>
 </p>
 
 <p align="center">
