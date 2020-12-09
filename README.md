@@ -52,7 +52,7 @@ Here are some ideas to get you started:
       <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="28" height="28"/> </a> 
       <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="28" height="28"/> </a> 
       <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="28" height="28"/> </a> 
-      <a href="https://www.vim.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vim/vim-original.svg" alt="vim" width="28" height="28"/> </a> 
+      <a href="https://www.vim.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/logos/vim/vim-original.svg" alt="vim" width="28" height="28"/> </a> 
       <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"  width="28" height="28"/> </a> 
       <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb"  width="28" height="28"/> </a> 
       <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  width="28" height="28"/> </a> 
