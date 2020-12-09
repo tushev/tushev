@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 	<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="50" height="50"/> </a> 
 	<a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
 	<a href="https://ubuntu.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/> </a> 
-	<a href="https://www.centos.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/centos/centos-original.svg" alt="centos" width="50" height="50"/> </a> 
+	<a href="https://www.centos.org/" target="_blank"> <img src="https://tushev.github.io/tushev/img/skill-svg/centos-symbol.svg" alt="centos" width="50" height="50"/> </a> 
 	<a href="https://www.nginx.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/apache/apache-original.svg" alt="nginx" width="50" height="50"/> </a>
 	<a href="https://www.nginx.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/> </a>
 	<a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> 
