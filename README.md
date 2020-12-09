@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <p align="center">
       <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="28" height="28"/> </a> 
       <a href="https://www.microsoft.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="28" height="28"/> </a> 
-      <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/isualstudio/visualstudio-plain.svg" alt="visualstudio" width="28" height="28"/> </a> 
+      <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="28" height="28"/> </a> 
       <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="28" height="28"/> </a> 
       <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="28" height="28"/> </a> 
       <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"  width="28" height="28"/> </a> 
@@ -60,13 +60,13 @@ Here are some ideas to get you started:
       <a href="https://jquery.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" width="28" height="28"/> </a> 
       <a href="https://d3js.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" width="28" height="28"/> </a> 
       <a href="http://lesscss.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/less/less-plain-wordmark.svg" width="28" height="28"/> </a> 
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />  
+      <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="28" height="28"/> </a>       
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="25" />  
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" />  
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="25" />    
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="25" />  
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="25" />  
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" />  
+      <a href="https://www.latex-project.org/" target="_blank"> <img src="https://tushev.github.io/tushev/img/skill-svg/latex.svg" alt="LaTeX" width="67" height="28"/> </a> 
+      <a href="https://www.wordpress.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-original.svg" alt="css3" width="28" height="28"/> </a> 
+      <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="css3" width="28" height="28"/> </a> 
 </div>  
 
 
