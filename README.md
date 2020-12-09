@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-
       <a href="https://www.microsoft.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="28" height="28"/> </a> 
       <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="28" height="28"/> </a> 
       <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="28" height="28"/> </a> 
