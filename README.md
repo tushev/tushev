@@ -41,7 +41,7 @@ Here are some ideas to get you started:
       <a href="https://www.centos.org/" target="_blank"> <img src="https://tushev.github.io/tushev/img/skill-svg/centos-symbol.svg" alt="centos" width="60" height="60"/> </a> 
       <a href="https://www.nginx.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/apache/apache-original.svg" alt="apache" width="60" height="60"/> </a>
       <a href="https://www.nginx.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/> </a>
-      <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> 
+      <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-plain.svg" alt="php" width="50" height="50"/> </a> 
 </p>
 
 <p align="center">
@@ -56,6 +56,7 @@ Here are some ideas to get you started:
       <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"  width="28" height="28"/> </a> 
       <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb"  width="28" height="28"/> </a> 
       <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  width="28" height="28"/> </a> 
+      <a href="https://openjdk.java.net/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="28" height="28"/> </a> 
       <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="28" height="28"/> </a> 
       <a href="https://www.lua.org" target="_blank"> <img src="https://tushev.github.io/tushev/img/skill-svg/lua.svg" alt="lua" width="28" height="28"/> </a> 
       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="28" height="28"/> </a> 
