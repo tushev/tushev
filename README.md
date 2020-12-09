@@ -18,16 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Simon Tushev</h1>
 <h3 align="center">Software engineer, Researcher</h3>
 
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tushev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tushev&" alt="tushev" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
 
 <p align="center" ><img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=tushev&show_icons=true&locale=en" alt="tushev" /> <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushev&" alt="tushev" /></p>
 
@@ -40,7 +30,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="75" />  
 </div>  
 
-<div align="center">  
+<div align="center" style="margin-top:20px;">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />  
@@ -63,6 +53,8 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" />  
 </div>  
 
 <p align="center">
