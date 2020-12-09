@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p align="center">
       <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="85" height="85"/></a> 
       <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="85" height="85"/></a>
-      <a href="https://www.mathworks.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="85" height="85"/></a> 
+      <a href="https://www.mathworks.com/" target="_blank"><img src="https://tushev.github.io/tushev/img/skill-svg/matlabcentral-fileexchange-24085-matlab-icon-for-linux-with-transparency-matlabicon_128.png" alt="matlab" width="85" height="85"/></a> 
       <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="85" height="85"/></a> 
 </p>
 
