@@ -55,9 +55,8 @@ Here are some ideas to get you started:
       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="25" height="25"/> </a> 
       <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> </a> 
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="25" height="25"/> </a> 
+      <a href="https://jquery.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" width="25" height="25"/> </a> 
       <a href="http://lesscss.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/less/less-plain-wordmark.svg" width="25" height="25"/> </a> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" />
 </p>
 
 <p>&nbsp;</p>
@@ -68,9 +67,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="25" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3.png" alt="D3.js" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
