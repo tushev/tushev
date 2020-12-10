@@ -43,7 +43,7 @@ Here are some ideas to get you started:
       <a href="https://www.nginx.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/> </a>
       <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-plain.svg" alt="php" width="50" height="50"/> </a> 
 </p>
-<p>&nbsp;</p>
+<!--<p>&nbsp;</p>-->
 <p align="center">
       <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="28" height="28"/> </a> 
       <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://tushev.github.io/tushev/img/skill-svg/rpi.svg" alt="Raspberry Pi" width="22" height="28"/> </a> 
