@@ -19,12 +19,6 @@ Here are some ideas to get you started:
 <h3 align="center">Software engineer, Researcher</h3>
 
 
-<p align="center" >
-      <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=tushev&show_icons=true&locale=en" alt="tushev" />
-      <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushev&" alt="tushev" />
-</p>
-
-
 
 <p align="center">
       <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="85" height="85"/></a> 
@@ -73,6 +67,12 @@ Here are some ideas to get you started:
       <a href="https://www.latex-project.org/" target="_blank"> <img src="https://tushev.github.io/tushev/img/skill-svg/latex.svg" alt="LaTeX" width="65" height="26"/> </a> 
       <a href="https://www.wordpress.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-original.svg" alt="wordpress" width="28" height="28"/> </a> 
 </div>  
+
+
+<p align="center" >
+      <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=tushev&show_icons=true&locale=en" alt="tushev" />
+      <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushev&" alt="tushev" />
+</p>
 
 
 
