@@ -19,12 +19,6 @@ Here are some ideas to get you started:
 <h3 align="center">Software engineer, Researcher</h3>
 
 
-<p align="center" >
-      <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=tushev&show_icons=true&locale=en" alt="tushev" />
-      <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushev&" alt="tushev" />
-</p>
-
-
 
 <p align="center">
       <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://tushev.github.io/tushev/img/skill-svg/devicon/cplusplus-original.svg" alt="cplusplus" width="85" height="85"/></a> 
@@ -43,7 +37,7 @@ Here are some ideas to get you started:
       <a href="https://www.nginx.org" target="_blank"><img src="https://tushev.github.io/tushev/img/skill-svg/devicon/nginx-original.svg" alt="nginx" width="50" height="50"/> </a>
       <a href="https://www.php.net" target="_blank"> <img src="https://tushev.github.io/tushev/img/skill-svg/devicon/php-plain.svg" alt="php" width="50" height="50"/> </a> 
 </p>
-
+<!--<p>&nbsp;</p>-->
 <p align="center">
       <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="28" height="28"/> </a> 
       <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://tushev.github.io/tushev/img/skill-svg/rpi.svg" alt="Raspberry Pi" width="22" height="28"/> </a> 
@@ -73,6 +67,12 @@ Here are some ideas to get you started:
       <a href="https://www.latex-project.org/" target="_blank"> <img src="https://tushev.github.io/tushev/img/skill-svg/latex.svg" alt="LaTeX" width="65" height="26"/> </a> 
       <a href="https://www.wordpress.org" target="_blank"> <img src="https://tushev.github.io/tushev/img/skill-svg/devicon/wordpress-original.svg" alt="wordpress" width="28" height="28"/> </a> 
 </div>  
+
+
+<p align="center" >
+      <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=tushev&show_icons=true&locale=en" alt="tushev" />
+      <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushev&" alt="tushev" />
+</p>
 
 
 
