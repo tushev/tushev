@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <p align="center">
       <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
-      <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://tushev.github.io/tushev/img/skill-svg/devicon/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/> </a> 
+      <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://tushev.github.io/tushev/img/skill-svg/devicon/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/> </a> 
       <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://tushev.github.io/tushev/img/skill-svg/devicon/ruby-original-wordmark.svg" alt="ruby" width="50" height="50"/> </a> 
       <a href="https://ubuntu.com" target="_blank"> <img src="https://tushev.github.io/tushev/img/skill-svg/devicon/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/> </a> 
       <a href="https://www.centos.org/" target="_blank"> <img src="https://tushev.github.io/tushev/img/skill-svg/centos-symbol.svg" alt="centos" width="60" height="60"/> </a> 
