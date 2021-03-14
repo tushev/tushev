@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Simon Tushev</h1>
 <h3 align="center">Software engineer, Researcher</h3>
-<h4 align="center">Professional interests: computer vision, precision photogrammetry, simulation modelling. Also interested in:</h4>
-<h4>&nbsp;</h4>
-
+<h4 align="center">Professional interests: computer vision, precision photogrammetry, simulation modelling. Also interested in / have some experience with:</h4>
 
 <p align="center">
       <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://tushev.github.io/tushev/img/skill-svg/devicon/cplusplus-original.svg" alt="cplusplus" width="85" height="85"/></a> 
