@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Simon Tushev</h1>
 <h3 align="center">Software engineer, Researcher</h3>
-
+<h4 align="center">Professional interests: computer vision, precision photogrammetry, simulation modelling</h4>
+<h4 align="center">Also interested in: see below</h4>
+<h4>&nbsp;</h4>
 
 
 <p align="center">
