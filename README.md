@@ -8,13 +8,13 @@
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/c-original.svg" height="64" alt="c"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/cplusplus-original.svg" height="64" alt="cplusplus"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/csharp-original.svg" height="64" alt="csharp"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/python-original.svg" height="64" alt="python"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/python-light.svg" height="64" alt="python"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/embeddedc-original.svg" height="64" alt="embeddedc"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/docker.svg"  height="64" alt="docker"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/linux.svg"  height="64" alt="linux"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/nginx.svg" height="64" alt="nginx"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/bash.svg"  height="64" alt="bash"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/matlab.svg"  height="64" alt="matlab"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/bash-light.svg"  height="64" alt="bash"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/matlab-light.svg"  height="64" alt="matlab"  />
 </div>
 
 ###
@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/regex.svg"  height="48" alt="regex"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/powershell.svg"  height="48" alt="powershell"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/arduino.svg"  height="48" alt="arduino"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/raspberrypi.svg"  height="48" alt="raspberrypi"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/raspberrypi-light.svg"  height="48" alt="raspberrypi"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/ruby.svg"  height="48" alt="ruby"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/perl.svg"  height="48" alt="perl"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/lua.svg"  height="48" alt="lua"  />
