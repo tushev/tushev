@@ -69,7 +69,7 @@ Since June 2023, I sign my code with the following GPG key:
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/githubactions.svg"  height="40" alt="githubactions"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/gitlab.svg"  height="40" alt="gitlab"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/gitea.svg"  height="40" alt="gitea"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/latex.svg"  height="40" alt="latex"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/latex-light.svg"  height="40" alt="latex"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/md.svg"  height="40" alt="markdown"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/nextcloud-round.svg" height="40" alt="nextcloud"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/cmake-original.svg" height="40" alt="cmake"  />
