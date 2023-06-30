@@ -47,7 +47,9 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net"  />
+  <img src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="40" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql"  />
+  <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite"  />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git"  />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github"  />
