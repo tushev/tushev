@@ -23,6 +23,7 @@
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/regex.svg"  height="48" alt="regex"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/powershell.svg"  height="48" alt="powershell"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/arduino.svg"  height="48" alt="arduino"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/espressif.svg"  height="48" alt="ESP32"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/raspberrypi-light.svg"  height="48" alt="raspberrypi"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/ruby.svg"  height="48" alt="ruby"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/perl.svg"  height="48" alt="perl"  />
@@ -30,6 +31,7 @@
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/octave.svg"  height="48" alt="octave"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/opencv-original.svg" height="48" alt="opencv"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/go.svg"  height="48" alt="go"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/yubico.svg"  height="48" alt="Yubikey"  />
 </div>
 
 
@@ -49,6 +51,8 @@ Since June 2023, I sign my code with the following GPG key:
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/twitter.svg" width="52" height="40" alt="twitter"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/reddit.svg" width="52" height="40" alt="reddit"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/keybase.svg" width="52" height="40" alt="keybase"  />
 </div>
 -->
 
@@ -64,8 +68,10 @@ Since June 2023, I sign my code with the following GPG key:
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/github.svg"  height="40" alt="github"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/githubactions.svg"  height="40" alt="githubactions"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/gitlab.svg"  height="40" alt="gitlab"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/gitea.svg"  height="40" alt="gitea"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/latex.svg"  height="40" alt="latex"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/md.svg"  height="40" alt="markdown"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/nextcloud-round.svg" height="40" alt="nextcloud"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/cmake-original.svg" height="40" alt="cmake"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/gcc-original.svg" height="40" alt="gcc"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/jetbrains-original.svg" height="40" alt="jetbrains"  />
@@ -73,6 +79,7 @@ Since June 2023, I sign my code with the following GPG key:
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/vscode.svg"  height="40" alt="vscode"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/ps.svg"  height="40" alt="adobephotoshop"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/inkscape-original.svg" height="40" alt="inkscape"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/davinci-resolve.svg" height="40" alt="DaVinci Resolve"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/numpy-original.svg" height="40" alt="numpy"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/nuget-original.svg" height="40" alt="nuget"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/jupyter.svg" height="40" alt="jupyter"  />
@@ -100,6 +107,7 @@ Since June 2023, I sign my code with the following GPG key:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/apache.svg" height="40" alt="apache"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/caddy.svg" height="40" alt="caddy"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/azure.svg"  height="40" alt="azure"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/aws.svg"  height="40" alt="amazonwebservices"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/gcp.svg"  height="40" alt="googlecloud"  />
@@ -151,14 +159,15 @@ Since June 2023, I sign my code with the following GPG key:
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/windows8-original.svg" height="36" alt="windows8"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/apple-original.svg" height="36" alt="apple"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/microsoft.svg" height="36" alt="microsoft windows"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/apple.svg" height="36" alt="apple"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/freebsd.svg" height="36" alt="freebsd"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/linux.svg"  height="36" alt="linux"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/debian.svg" height="36" alt="debian"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/ubuntu-plain.svg" height="36" alt="ubuntu"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/centos-original.svg" height="36" alt="centos"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/fedora.svg" height="36" alt="fedora"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/elementaryos.svg" height="36" alt="Elementary OS"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/alpinejs.svg"  height="36" alt="alpinelinux"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/redhat.svg" height="36" alt="redhat"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/msdos-original.svg" height="36" alt="msdos"  />
