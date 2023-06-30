@@ -32,6 +32,18 @@
   <img src="https://skillicons.dev/icons?i=go" height="48" alt="go"  />
 </div>
 
+
+###
+<p align="left">Since June 2023, I sign my code with the following GPG key: <code><a href="https://keyserver.ubuntu.com/pks/lookup?search=4FB4F23C4985DEEE&fingerprint=on&op=index">4FB4 F23C 4985 DEEE</a> Simon Tushev (Code Signing Key 2023)</code></p>
+
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter"  />
+</div>
+
+###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net"  />
@@ -54,18 +66,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget"  />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter"  />
 </div>
-
-###
-
-<p align="left">Since June 2023, I sign my code with the following GPG key: <code><a href="https://keyserver.ubuntu.com/pks/lookup?search=4FB4F23C4985DEEE&fingerprint=on&op=index">4FB4 F23C 4985 DEEE</a> Simon Tushev (Code Signing Key 2023)</code></p>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter"  />
-</div>
-
-###
 
 <h4 align="center">Web/Dev stack</h4>
 
