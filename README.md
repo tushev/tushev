@@ -177,16 +177,22 @@ Since June 2023, I sign my code with the following GPG key:
 
 
 <!-- -------------------------------------------------------------- -->
-
-
 <p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tushev/tushev/output/github-contribution-grid-snake-dark.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tushev/tushev/output/github-contribution-grid-snake.svg" />
-	  <img alt="github-snake" src="https://raw.githubusercontent.com/tushev/tushev/output/github-contribution-grid-snake.svg" />
+	<picture width="500">
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tushev/tushev/output-3d/profile-night-rainbow.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tushev/tushev/output-3d/profile-south-season-animate.svg" />
+	  <img alt="profile-south-season-animate.svg" src="https://raw.githubusercontent.com/tushev/tushev/output-3d/profile-south-season-animate.svg" />
 	</picture>
 </p>
-
+<!--
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tushev/tushev/output-snake/github-contribution-grid-snake-dark.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tushev/tushev/output-snake/github-contribution-grid-snake.svg" />
+	  <img alt="github-snake" src="https://raw.githubusercontent.com/tushev/tushev/output-snake/github-contribution-grid-snake.svg" />
+	</picture>
+</p>
+-->
 <p align="center" >
       <!-- Stats -->
       <picture width="437">
