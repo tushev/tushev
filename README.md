@@ -141,7 +141,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="36" alt="windows8"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="36" alt="apple"  />
   <img src="https://cdn.simpleicons.org/freebsd/AB2B28" height="36" alt="freebsd"  />
