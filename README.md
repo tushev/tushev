@@ -57,7 +57,7 @@
 
 ###
 
-<p align="left">Since June 2023, I sign my code with the following GPG key: </p>
+<p align="left">Since June 2023, I sign my code with the following GPG key: <code><a href="https://keyserver.ubuntu.com/pks/lookup?search=4FB4F23C4985DEEE&fingerprint=on&op=index">4FB4 F23C 4985 DEEE</a> Simon Tushev (Code Signing Key 2023)</code></p>
 
 ###
 
