@@ -102,9 +102,6 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel"  />
 </div>
 
-###
-
-<br clear="both">
 
 <h4 align="left">Also worked with many other techs, including</h4>
 
