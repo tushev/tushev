@@ -1,35 +1,35 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width=32 height=32>, I'm Simon Tushev</h1>
+<h1 align="center">Hi <img src="https://tushev.github.io/tushev/assets/icons/_hi.gif" width=32 height=32>, I'm Simon Tushev</h1>
 <h3 align="center">Researcher • Developer • IT Versatilist</h3>
 
 ---------------------------------------
 
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="64" alt="c"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="64" alt="cplusplus"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="64" alt="csharp"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="64" alt="python"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="64" alt="embeddedc"  />
-  <img src="https://skillicons.dev/icons?i=docker" height="64" alt="docker"  />
-  <img src="https://skillicons.dev/icons?i=linux" height="64" alt="linux"  />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="64" alt="nginx"  />
-  <img src="https://skillicons.dev/icons?i=bash" height="64" alt="bash"  />
-  <img src="https://skillicons.dev/icons?i=matlab" height="64" alt="matlab"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/c-original.svg" height="64" alt="c"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/cplusplus-original.svg" height="64" alt="cplusplus"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/csharp-original.svg" height="64" alt="csharp"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/python-original.svg" height="64" alt="python"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/embeddedc-original.svg" height="64" alt="embeddedc"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/docker.svg"  height="64" alt="docker"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/linux.svg"  height="64" alt="linux"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/nginx.svg" height="64" alt="nginx"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/bash.svg"  height="64" alt="bash"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/matlab.svg"  height="64" alt="matlab"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=regex" height="48" alt="regex"  />
-  <img src="https://skillicons.dev/icons?i=powershell" height="48" alt="powershell"  />
-  <img src="https://skillicons.dev/icons?i=arduino" height="48" alt="arduino"  />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="48" alt="raspberrypi"  />
-  <img src="https://skillicons.dev/icons?i=ruby" height="48" alt="ruby"  />
-  <img src="https://skillicons.dev/icons?i=perl" height="48" alt="perl"  />
-  <img src="https://skillicons.dev/icons?i=lua" height="48" alt="lua"  />
-  <img src="https://skillicons.dev/icons?i=octave" height="48" alt="octave"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" alt="opencv"  />
-  <img src="https://skillicons.dev/icons?i=go" height="48" alt="go"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/regex.svg"  height="48" alt="regex"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/powershell.svg"  height="48" alt="powershell"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/arduino.svg"  height="48" alt="arduino"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/raspberrypi.svg"  height="48" alt="raspberrypi"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/ruby.svg"  height="48" alt="ruby"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/perl.svg"  height="48" alt="perl"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/lua.svg"  height="48" alt="lua"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/octave.svg"  height="48" alt="octave"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/opencv-original.svg" height="48" alt="opencv"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/go.svg"  height="48" alt="go"  />
 </div>
 
 
@@ -48,34 +48,34 @@ Since June 2023, I sign my code with the following GPG key:
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/twitter.svg" width="52" height="40" alt="twitter"  />
 </div>
 -->
 
 ###
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net"  />
-  <img src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql"  />
-  <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite"  />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git"  />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github"  />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions"  />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab"  />
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex"  />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="40" alt="gcc"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains"  />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode"  />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget"  />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/dotnetcore-original.svg" height="40" alt="dotnetcore"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/dot-net-plain-wordmark.svg" height="40" alt="dot-net"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/xaml.png" alt="XAML" height="40" />
+  <img src="https://tushev.github.io/tushev/assets/icons/mysql.svg"  height="40" alt="mysql"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/mariadb.png" alt="Maria DB" height="40" />
+  <img src="https://tushev.github.io/tushev/assets/icons/sqlite-original.svg" height="40" alt="sqlite"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/git.svg"  height="40" alt="git"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/github.svg"  height="40" alt="github"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/githubactions.svg"  height="40" alt="githubactions"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/gitlab.svg"  height="40" alt="gitlab"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/latex.svg"  height="40" alt="latex"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/md.svg"  height="40" alt="markdown"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/cmake-original.svg" height="40" alt="cmake"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/gcc-original.svg" height="40" alt="gcc"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/jetbrains-original.svg" height="40" alt="jetbrains"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/visualstudio.svg"  height="40" alt="visualstudio"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/vscode.svg"  height="40" alt="vscode"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/ps.svg"  height="40" alt="adobephotoshop"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/inkscape-original.svg" height="40" alt="inkscape"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/numpy-original.svg" height="40" alt="numpy"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/nuget-original.svg" height="40" alt="nuget"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/jupyter.svg" height="40" alt="jupyter"  />
 </div>
 
 <h4 align="center">Web/Dev stack</h4>
@@ -83,34 +83,34 @@ Since June 2023, I sign my code with the following GPG key:
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript"  />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php"  />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5"  />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3"  />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap"  />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery"  />
-  <img src="https://skillicons.dev/icons?i=d3" height="40" alt="d3js"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="40" alt="less"  />
-  <img src="https://cdn.simpleicons.org/handlebarsdotjs/000000" height="40" alt="handlebars"  />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/js.svg"  height="40" alt="javascript"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/php.svg"  height="40" alt="php"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/html.svg"  height="40" alt="html5"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/css.svg"  height="40" alt="css3"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/bootstrap.svg"  height="40" alt="bootstrap"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/jquery.svg"  height="40" alt="jquery"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/d3.svg" height="40" alt="d3js"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/less-plain-wordmark.svg" height="40" alt="less"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/handlebars.svg" height="40" alt="handlebars"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/threejs.svg"  height="40" alt="threejs"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/composer-original.svg" height="40" alt="composer"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache"  />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure"  />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices"  />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud"  />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare"  />
-  <img src="https://skillicons.dev/icons?i=workers" height="40" alt="workers"  />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify"  />
-  <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku"  />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress"  />
-  <img src="https://cdn.simpleicons.org/hugo/FF4088" height="40" alt="hugo"  />
-  <img src="https://skillicons.dev/icons?i=fediverse" height="40" alt="fediverse"  />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/apache.svg" height="40" alt="apache"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/azure.svg"  height="40" alt="azure"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/aws.svg"  height="40" alt="amazonwebservices"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/gcp.svg"  height="40" alt="googlecloud"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/cloudflare.svg"  height="40" alt="cloudflare"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/workers.svg"  height="40" alt="workers"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/netlify.svg"  height="40" alt="netlify"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/heroku.svg"  height="40" alt="heroku"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/wordpress.svg"  height="40" alt="wordpress"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/hugo.svg" height="40" alt="hugo"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/fediverse.svg"  height="40" alt="fediverse"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/vercel.svg"  height="40" alt="vercel"  />
 </div>
 
 
@@ -119,49 +119,49 @@ Since June 2023, I sign my code with the following GPG key:
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs"  />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="36" alt="npm"  />
-  <img src="https://skillicons.dev/icons?i=materialui" height="36" alt="materialui"  />
-  <img src="https://skillicons.dev/icons?i=svg" height="36" alt="svg"  />
-  <img src="https://skillicons.dev/icons?i=unity" height="36" alt="unity"  />
-  <img src="https://skillicons.dev/icons?i=blender" height="36" alt="blender"  />
-  <img src="https://skillicons.dev/icons?i=vim" height="36" alt="vim"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="36" alt="kubernetes"  />
-  <img src="https://skillicons.dev/icons?i=ansible" height="36" alt="ansible"  />
-  <img src="https://skillicons.dev/icons?i=grafana" height="36" alt="grafana"  />
-  <img src="https://skillicons.dev/icons?i=java" height="36" alt="java"  />
-  <img src="https://skillicons.dev/icons?i=swift" height="36" alt="swift"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="36" alt="xcode"  />
-  <img src="https://cdn.simpleicons.org/gimp/5C5543" height="36" alt="gimp"  />
-  <img src="https://skillicons.dev/icons?i=graphql" height="36" alt="graphql"  />
-  <img src="https://skillicons.dev/icons?i=ipfs" height="36" alt="ipfs"  />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="36" alt="postman"  />
-  <img src="https://skillicons.dev/icons?i=sass" height="36" alt="sass"  />
-  <img src="https://cdn.simpleicons.org/ifttt/000000" height="36" alt="ifttt"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="redis"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="36" alt="microsoftsqlserver"  />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="36" alt="tensorflow"  />
-  <img src="https://skillicons.dev/icons?i=rails" height="36" alt="rails"  />
-  <img src="https://skillicons.dev/icons?i=rust" height="36" alt="rust"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="36" alt="electron"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="36" alt="podman"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uwsgi/uwsgi-original.svg" height="36" alt="uwsgi"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/nodejs.svg"  height="36" alt="nodejs"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/npm.svg" height="36" alt="npm"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/materialui.svg"  height="36" alt="materialui"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/svg.svg"  height="36" alt="svg"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/unity.svg"  height="36" alt="unity"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/blender.svg"  height="36" alt="blender"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/vim.svg"  height="36" alt="vim"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/kubernetes-plain.svg" height="36" alt="kubernetes"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/ansible.svg"  height="36" alt="ansible"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/grafana.svg"  height="36" alt="grafana"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/java.svg"  height="36" alt="java"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/swift.svg"  height="36" alt="swift"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/xcode-original.svg" height="36" alt="xcode"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/gimp.svg" height="36" alt="gimp"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/graphql.svg"  height="36" alt="graphql"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/ipfs.svg"  height="36" alt="ipfs"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/postman.svg" height="36" alt="postman"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/sass.svg"  height="36" alt="sass"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/ifttt.svg" height="36" alt="ifttt"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/redis-original.svg" height="36" alt="redis"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/microsoftsqlserver-plain.svg" height="36" alt="microsoftsqlserver"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/tensorflow.svg"  height="36" alt="tensorflow"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/rails.svg"  height="36" alt="rails"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/rust.svg"  height="36" alt="rust"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/electron-original.svg" height="36" alt="electron"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/podman-original.svg" height="36" alt="podman"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/uwsgi-original.svg" height="36" alt="uwsgi"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="36" alt="windows8"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="36" alt="apple"  />
-  <img src="https://cdn.simpleicons.org/freebsd/AB2B28" height="36" alt="freebsd"  />
-  <img src="https://skillicons.dev/icons?i=linux" height="36" alt="linux"  />
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="36" alt="debian"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="36" alt="ubuntu"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="36" alt="centos"  />
-  <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="36" alt="fedora"  />
-  <img src="https://skillicons.dev/icons?i=alpinejs" height="36" alt="alpinelinux"  />
-  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="36" alt="redhat"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="36" alt="msdos"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/windows8-original.svg" height="36" alt="windows8"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/apple-original.svg" height="36" alt="apple"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/freebsd.svg" height="36" alt="freebsd"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/linux.svg"  height="36" alt="linux"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/debian.svg" height="36" alt="debian"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/ubuntu-plain.svg" height="36" alt="ubuntu"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/centos-original.svg" height="36" alt="centos"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/fedora.svg" height="36" alt="fedora"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/alpinejs.svg"  height="36" alt="alpinelinux"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/redhat.svg" height="36" alt="redhat"  />
+  <img src="https://tushev.github.io/tushev/assets/icons/msdos-original.svg" height="36" alt="msdos"  />
 </div>
 
 ###
