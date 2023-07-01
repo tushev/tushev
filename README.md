@@ -130,41 +130,6 @@ Since June 2023, I sign my code with the following GPG key:
 
 
 
-
-<h4 align="left">Also worked with many other techs, including</h4>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/nodejs.svg"  height="36" alt="nodejs"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/npm.svg" height="36" alt="npm"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/materialui.svg"  height="36" alt="materialui"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/svg.svg"  height="36" alt="svg"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/unity.svg"  height="36" alt="unity"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/blender.svg"  height="36" alt="blender"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/vim.svg"  height="36" alt="vim"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/kubernetes-plain.svg" height="36" alt="kubernetes"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/ansible.svg"  height="36" alt="ansible"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/grafana.svg"  height="36" alt="grafana"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/java.svg"  height="36" alt="java"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/swift.svg"  height="36" alt="swift"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/xcode-original.svg" height="36" alt="xcode"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/gimp.svg" height="36" alt="gimp"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/graphql.svg"  height="36" alt="graphql"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/ipfs.svg"  height="36" alt="ipfs"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/postman.svg" height="36" alt="postman"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/sass.svg"  height="36" alt="sass"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/ifttt.svg" height="36" alt="ifttt"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/redis-original.svg" height="36" alt="redis"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/microsoftsqlserver-plain.svg" height="36" alt="microsoftsqlserver"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/tensorflow.svg"  height="36" alt="tensorflow"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/rails.svg"  height="36" alt="rails"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/rust.svg"  height="36" alt="rust"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/electron-original.svg" height="36" alt="electron"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/podman-original.svg" height="36" alt="podman"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/uwsgi-original.svg" height="36" alt="uwsgi"  />
-</div>
-
 ###
 
 <div align="center">
@@ -233,3 +198,44 @@ Since June 2023, I sign my code with the following GPG key:
       </picture>
 </p>
 -->
+
+###
+
+
+<!-- -------------------------------------------------------------- -->
+
+
+
+<h4 align="left">Also worked with many other techs, including</h4>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/nodejs.svg"  height="36" alt="nodejs"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/npm.svg" height="36" alt="npm"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/materialui.svg"  height="36" alt="materialui"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/svg.svg"  height="36" alt="svg"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/unity.svg"  height="36" alt="unity"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/blender.svg"  height="36" alt="blender"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/vim.svg"  height="36" alt="vim"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/kubernetes-plain.svg" height="36" alt="kubernetes"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/ansible.svg"  height="36" alt="ansible"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/grafana.svg"  height="36" alt="grafana"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/java.svg"  height="36" alt="java"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/swift.svg"  height="36" alt="swift"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/xcode-original.svg" height="36" alt="xcode"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/gimp.svg" height="36" alt="gimp"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/graphql.svg"  height="36" alt="graphql"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/ipfs.svg"  height="36" alt="ipfs"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/postman.svg" height="36" alt="postman"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/sass.svg"  height="36" alt="sass"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/ifttt.svg" height="36" alt="ifttt"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/redis-original.svg" height="36" alt="redis"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/microsoftsqlserver-plain.svg" height="36" alt="microsoftsqlserver"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/tensorflow.svg"  height="36" alt="tensorflow"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/rails.svg"  height="36" alt="rails"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/rust.svg"  height="36" alt="rust"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/electron-original.svg" height="36" alt="electron"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/podman-original.svg" height="36" alt="podman"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/uwsgi-original.svg" height="36" alt="uwsgi"  />
+</div>
