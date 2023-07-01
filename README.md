@@ -68,6 +68,35 @@
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/nuget-original.svg" height="40" alt="nuget"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/jupyter.svg" height="40" alt="jupyter"  />
 </div>
+<!--<h5 align="center">Web/Dev stack</h4>-->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/js.svg"  height="40" alt="javascript"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/php.svg"  height="40" alt="php"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/html.svg"  height="40" alt="html5"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/css.svg"  height="40" alt="css3"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/bootstrap.svg"  height="40" alt="bootstrap"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/jquery.svg"  height="40" alt="jquery"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/d3.svg" height="40" alt="d3js"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/less-plain-wordmark.svg" height="40" alt="less"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/handlebars.svg" height="40" alt="handlebars"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/threejs.svg"  height="40" alt="threejs"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/composer-original.svg" height="40" alt="composer"  />
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/apache.svg" height="40" alt="apache"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/caddy.svg" height="40" alt="caddy"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/azure.svg"  height="40" alt="azure"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/aws.svg"  height="40" alt="amazonwebservices"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/gcp.svg"  height="40" alt="googlecloud"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/cloudflare.svg"  height="40" alt="cloudflare"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/workers.svg"  height="40" alt="workers"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/netlify.svg"  height="40" alt="netlify"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/heroku.svg"  height="40" alt="heroku"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/wordpress.svg"  height="40" alt="wordpress"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/hugo.svg" height="40" alt="hugo"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/fediverse.svg"  height="40" alt="fediverse"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/vercel.svg"  height="40" alt="vercel"  />
+</div>
 
 ###
 <p align="left">
@@ -100,41 +129,6 @@ Since June 2023, I sign my code with the following GPG key:
 
 
 
-<h4 align="center">Web/Dev stack</h4>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/js.svg"  height="40" alt="javascript"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/php.svg"  height="40" alt="php"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/html.svg"  height="40" alt="html5"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/css.svg"  height="40" alt="css3"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/bootstrap.svg"  height="40" alt="bootstrap"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/jquery.svg"  height="40" alt="jquery"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/d3.svg" height="40" alt="d3js"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/less-plain-wordmark.svg" height="40" alt="less"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/handlebars.svg" height="40" alt="handlebars"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/threejs.svg"  height="40" alt="threejs"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/composer-original.svg" height="40" alt="composer"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/apache.svg" height="40" alt="apache"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/caddy.svg" height="40" alt="caddy"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/azure.svg"  height="40" alt="azure"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/aws.svg"  height="40" alt="amazonwebservices"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/gcp.svg"  height="40" alt="googlecloud"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/cloudflare.svg"  height="40" alt="cloudflare"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/workers.svg"  height="40" alt="workers"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/netlify.svg"  height="40" alt="netlify"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/heroku.svg"  height="40" alt="heroku"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/wordpress.svg"  height="40" alt="wordpress"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/hugo.svg" height="40" alt="hugo"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/fediverse.svg"  height="40" alt="fediverse"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/vercel.svg"  height="40" alt="vercel"  />
-</div>
 
 
 <h4 align="left">Also worked with many other techs, including</h4>
