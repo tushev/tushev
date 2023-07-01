@@ -37,6 +37,7 @@
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/octave.svg"  height="48" alt="octave"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/opencv-original.svg" height="48" alt="opencv"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/go.svg"  height="48" alt="go"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/openssl.svg"  height="48" alt="openssl"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/yubico.svg"  height="48" alt="Yubikey"  />
 </div>
 
@@ -168,6 +169,7 @@ Since June 2023, I sign my code with the following GPG key:
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/microsoft.svg" height="36" alt="microsoft windows"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/apple.svg" height="36" alt="apple"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/freebsd.svg" height="36" alt="freebsd"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/openbsd.svg" height="36" alt="openbsd"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/linux.svg"  height="36" alt="linux"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/debian.svg" height="36" alt="debian"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/ubuntu-plain.svg" height="36" alt="ubuntu"  />
