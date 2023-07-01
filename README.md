@@ -224,9 +224,12 @@ Since June 2023, I sign my code with the following GPG key:
       </picture>
 </p>
 
+<!-- Metrics -->
+<!--
 <p align="center" >
-      <!-- Metrics -->
+
       <picture width="840">
-	<img width="840" src="https://metrics.lecoq.io/tushev?template=classic&base.header=0&base.community=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=UTC&config.display=columns">
+	<img width="840" src="">
       </picture>
 </p>
+-->
