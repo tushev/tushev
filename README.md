@@ -223,3 +223,5 @@ Since June 2023, I sign my code with the following GPG key:
           <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=tushev&show_icons=true&count_private=true&card_width=400" />
       </picture>
 </p>
+
+![Metrics](https://metrics.lecoq.io/tushev?template=classic&base.community=0&achievements=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=2000&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=UTC&config.display=columns)
