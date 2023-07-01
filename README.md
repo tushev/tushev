@@ -188,6 +188,21 @@ Since June 2023, I sign my code with the following GPG key:
 <!-- -------------------------------------------------------------- -->
 
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/microsoft.svg" height="36" alt="microsoft windows"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/apple.svg" height="36" alt="apple"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/freebsd.svg" height="36" alt="freebsd"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/openbsd.svg" height="36" alt="openbsd"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/linux.svg"  height="36" alt="linux"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/debian.svg" height="36" alt="debian"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/ubuntu-plain.svg" height="36" alt="ubuntu"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/centos-original.svg" height="36" alt="centos"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/fedora.svg" height="36" alt="fedora"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/elementaryos.svg" height="36" alt="Elementary OS"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/alpinejs.svg"  height="36" alt="alpinelinux"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/redhat.svg" height="36" alt="redhat"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/msdos-original.svg" height="36" alt="msdos"  />
+</div>
 
 <h4 align="left">Also worked with many other techs, including</h4>
 
@@ -223,20 +238,3 @@ Since June 2023, I sign my code with the following GPG key:
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/uwsgi-original.svg" height="36" alt="uwsgi"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/microsoft.svg" height="36" alt="microsoft windows"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/apple.svg" height="36" alt="apple"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/freebsd.svg" height="36" alt="freebsd"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/openbsd.svg" height="36" alt="openbsd"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/linux.svg"  height="36" alt="linux"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/debian.svg" height="36" alt="debian"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/ubuntu-plain.svg" height="36" alt="ubuntu"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/centos-original.svg" height="36" alt="centos"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/fedora.svg" height="36" alt="fedora"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/elementaryos.svg" height="36" alt="Elementary OS"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/alpinejs.svg"  height="36" alt="alpinelinux"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/redhat.svg" height="36" alt="redhat"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/msdos-original.svg" height="36" alt="msdos"  />
-</div>
