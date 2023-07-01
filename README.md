@@ -23,10 +23,9 @@
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/matlab-light.svg"  height="64" alt="matlab"  />
 </div>
 
-###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/regex.svg"  height="48" alt="regex"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/regex-light.svg"  height="48" alt="regex"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/powershell.svg"  height="48" alt="powershell"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/arduino.svg"  height="48" alt="arduino"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/espressif.svg"  height="48" alt="ESP32"  />
@@ -41,29 +40,6 @@
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/yubico.svg"  height="48" alt="Yubikey"  />
 </div>
 
-
-###
-<p align="left">
-Since June 2023, I sign my code with the following GPG key:
-<table>
-<tr>
-<td><code><a href="https://keyserver.ubuntu.com/pks/lookup?search=4FB4F23C4985DEEE&fingerprint=on&op=index">4FB4 F23C 4985 DEEE</a> Simon Tushev (Code Signing Key 2023)</code></td>
-<td>Signing subkey: <code>FF6D 50C5 E2F1 70FB</code></td>
-</tr>
-</table>
-</p>
-
-<!--
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/twitter.svg" width="52" height="40" alt="twitter"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/reddit.svg" width="52" height="40" alt="reddit"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/keybase.svg" width="52" height="40" alt="keybase"  />
-</div>
--->
-
-###
 <div align="center">
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/dotnetcore-original.svg" height="40" alt="dotnetcore"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/dot-net-plain-wordmark.svg" height="40" alt="dot-net"  />
@@ -78,6 +54,7 @@ Since June 2023, I sign my code with the following GPG key:
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/gitea.svg"  height="40" alt="gitea"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/latex-light.svg"  height="40" alt="latex"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/md.svg"  height="40" alt="markdown"  />
+  <br/>
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/nextcloud-round.svg" height="40" alt="nextcloud"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/cmake-original.svg" height="40" alt="cmake"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/gcc-original.svg" height="40" alt="gcc"  />
@@ -91,6 +68,37 @@ Since June 2023, I sign my code with the following GPG key:
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/nuget-original.svg" height="40" alt="nuget"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/jupyter.svg" height="40" alt="jupyter"  />
 </div>
+
+###
+<p align="left">
+Since June 2023, I sign my code with the following GPG key:
+<table>
+<tr>
+<td><code><a href="https://keyserver.ubuntu.com/pks/lookup?search=4FB4F23C4985DEEE&fingerprint=on&op=index">4FB4 F23C 4985 DEEE</a> Simon Tushev (Code Signing Key 2023)</code></td>
+<td>Signing subkey: <code>FF6D 50C5 E2F1 70FB</code></td>
+</tr>
+</table>
+</p>
+
+<p align="center" >
+	<picture width="500">
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tushev/tushev/output-3d/profile-night-rainbow.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tushev/tushev/output-3d/profile-south-season-animate.svg" />
+	  <img alt="profile-south-season-animate.svg" src="https://raw.githubusercontent.com/tushev/tushev/output-3d/profile-south-season-animate.svg" />
+	</picture>
+</p>
+
+<!--
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/twitter.svg" width="52" height="40" alt="twitter"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/reddit.svg" width="52" height="40" alt="reddit"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/keybase.svg" width="52" height="40" alt="keybase"  />
+</div>
+-->
+
+
 
 <h4 align="center">Web/Dev stack</h4>
 
@@ -185,13 +193,7 @@ Since June 2023, I sign my code with the following GPG key:
 
 
 <!-- -------------------------------------------------------------- -->
-<p align="center" >
-	<picture width="500">
-	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tushev/tushev/output-3d/profile-night-rainbow.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tushev/tushev/output-3d/profile-south-season-animate.svg" />
-	  <img alt="profile-south-season-animate.svg" src="https://raw.githubusercontent.com/tushev/tushev/output-3d/profile-south-season-animate.svg" />
-	</picture>
-</p>
+
 <!--
 <p align="center" >
 	<picture>
