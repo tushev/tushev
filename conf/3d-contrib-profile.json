@@ -3,10 +3,10 @@
 		"type": "rainbow",
 		"fileName": "3d-contrib-profile-day.svg",
 		"backgroundColor": "#ffffff",
-		"foregroundColor": "#eeeeff",
+		"foregroundColor": "#00000f",
 		"strongColor": "rgb(255,200,55)",
 		"weakColor": "#aaaaaa",
-		"radarColor": "rgb(255,200,55)",
+		"radarColor": "#40bcd8",
 		"growingAnimation": true,
 		"saturation": "50%",
 		"contribLightness": [
@@ -26,7 +26,7 @@
 		"foregroundColor": "#eeeeff",
 		"strongColor": "rgb(255,200,55)",
 		"weakColor": "#aaaaaa",
-		"radarColor": "rgb(255,200,55)",
+		"radarColor": "#40bcd8",
 		"growingAnimation": true,
 		"saturation": "50%",
 		"contribLightness": [
