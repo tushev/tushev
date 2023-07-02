@@ -17,7 +17,7 @@
 			"50%"
 		  ],
 	  "duration": "10s",
-	  "hueRatio": -7
+	  "hueRatio": -2
 	},
 	{
 		"type": "rainbow",
