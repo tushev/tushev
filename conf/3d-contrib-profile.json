@@ -10,14 +10,14 @@
 		"growingAnimation": true,
 		"saturation": "20%",
 		"contribLightness": [
-			"90%",
-			"80%",
-			"70%",
 			"60%",
-			"50%"
+			"50%",
+			"40%",
+			"30%",
+			"20%"
 		  ],
 	  "duration": "10s",
-	  "hueRatio": -2
+	  "hueRatio": -7
 	},
 	{
 		"type": "rainbow",
