@@ -8,15 +8,15 @@
 		"weakColor": "#aaaaaa",
 		"radarColor": "#40bcd8",
 		"growingAnimation": true,
-		"saturation": "50%",
+		"saturation": "80%",
 		"contribLightness": [
-		"20%",
-		"30%",
-		"35%",
-		"40%",
-		"50%"
-	  ],
-	  "duration": "10s",
+			"50%",
+			"40%",
+			"35%",
+			"30%",
+			"20%"
+		  ],
+	  "duration": "5s",
 	  "hueRatio": 7
 	},
 	{
