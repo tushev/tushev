@@ -4,7 +4,7 @@
 		"fileName": "3d-contrib-profile-day.svg",
 		"backgroundColor": "#ffffff",
 		"foregroundColor": "#00000f",
-		"strongColor": "rgb(255,200,55)",
+		"strongColor": "#40bcd8",
 		"weakColor": "#aaaaaa",
 		"radarColor": "#40bcd8",
 		"growingAnimation": true,
@@ -15,28 +15,28 @@
 			"70%",
 			"60%",
 			"50%"
-		  ],
-	  "duration": "7s",
-	  "hueRatio": -2
+		],
+		"duration": "7s",
+		"hueRatio": -2
 	},
 	{
 		"type": "rainbow",
 		"fileName": "3d-contrib-profile-night.svg",
 		"backgroundColor": "#00000f",
 		"foregroundColor": "#eeeeff",
-		"strongColor": "rgb(255,200,55)",
+		"strongColor": "#40bcd8",
 		"weakColor": "#aaaaaa",
 		"radarColor": "#40bcd8",
 		"growingAnimation": true,
 		"saturation": "50%",
 		"contribLightness": [
-		"20%",
-		"30%",
-		"35%",
-		"40%",
-		"50%"
+			"20%",
+			"30%",
+			"35%",
+			"40%",
+			"50%"
 		],
-		"duration": "10s",
-		"hueRatio": -7
+		"duration": "7s",
+		"hueRatio": -2
 	}
 ]
