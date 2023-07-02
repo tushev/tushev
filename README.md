@@ -112,9 +112,9 @@ Since June 2023, I sign my code with the following GPG key:
 
 <p align="center" >
 	<picture width="500">
-	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tushev/tushev/output-3d/profile-night-rainbow.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tushev/tushev/output-3d/profile-south-season-animate.svg" />
-	  <img alt="profile-south-season-animate.svg" src="https://raw.githubusercontent.com/tushev/tushev/output-3d/profile-south-season-animate.svg" />
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tushev/tushev/output-3d/3d-contrib-profile-night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tushev/tushev/output-3d/3d-contrib-profile-day.svg" />
+	  <img alt="profile-south-season-animate.svg" src="https://raw.githubusercontent.com/tushev/tushev/output-3d/3d-contrib-profile-day.svg" />
 	</picture>
 </p>
 
