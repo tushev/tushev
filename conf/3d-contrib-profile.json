@@ -10,11 +10,11 @@
 		"growingAnimation": true,
 		"saturation": "50%",
 		"contribLightness": [
-			"60%",
-			"70%",
-			"80%",
 			"90%",
-			"100%"
+			"80%",
+			"70%",
+			"60%",
+			"50%"
 		  ],
 	  "duration": "5s",
 	  "hueRatio": -7
