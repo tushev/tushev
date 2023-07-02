@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/_hi.gif" width=32 height=32>, I'm Simon Tushev</h1>
 <!--<h3 align="center">Researcher • Developer • IT Versatilist</h3>-->
 <div align="center" >
-	<picture width="500">
+	<picture width="490">
 	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tushev/tushev/main/assets/title/subheader-dark.svg" />
 	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tushev/tushev/main/assets/title/subheader-light.svg" />
 	  <img alt="profile-south-season-animate.svg" src="https://raw.githubusercontent.com/tushev/tushev/main/assets/title/subheader-light.svg" />
