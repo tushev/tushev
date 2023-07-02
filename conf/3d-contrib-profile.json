@@ -8,7 +8,7 @@
 		"weakColor": "#aaaaaa",
 		"radarColor": "#40bcd8",
 		"growingAnimation": true,
-		"saturation": "35%",
+		"saturation": "20%",
 		"contribLightness": [
 			"60%",
 			"50%",
