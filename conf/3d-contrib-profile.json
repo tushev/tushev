@@ -2,7 +2,7 @@
 	{
 		"type": "rainbow",
 		"fileName": "3d-contrib-profile-day.svg",
-		"backgroundColor": "#ffffffff",
+		"backgroundColor": "#ffffff",
 		"foregroundColor": "#eeeeff",
 		"strongColor": "rgb(255,200,55)",
 		"weakColor": "#aaaaaa",
