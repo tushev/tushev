@@ -53,6 +53,7 @@
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/gitlab.svg"  height="40" alt="gitlab"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/gitea.svg"  height="40" alt="gitea"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/latex-light.svg"  height="40" alt="latex"  />
+  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons-orig/asm.svg"  height="40" alt="asm"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/md.svg"  height="40" alt="markdown"  />
   <br/>
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/nextcloud-round.svg" height="40" alt="nextcloud"  />
