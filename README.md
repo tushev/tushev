@@ -212,7 +212,6 @@ Since June 2023, I sign my code with the following GPG key:
 <div align="center">
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/nodejs.svg"  height="36" alt="nodejs"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/npm.svg" height="36" alt="npm"  />
-  <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/materialui.svg"  height="36" alt="materialui"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/svg.svg"  height="36" alt="svg"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/unity.svg"  height="36" alt="unity"  />
   <img src="https://raw.githubusercontent.com/tushev/tushev/main/assets/icons/blender.svg"  height="36" alt="blender"  />
